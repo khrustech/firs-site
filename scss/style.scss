@@ -1,0 +1,16 @@
+h1 {
+    font-family: "Heebo Bold";
+}
+
+$success: #dfd32d;
+$border: 6px;
+
+.info {
+    background-color: aqua;
+    border: $border solid #111;
+
+    & p {
+        color: $success;
+        font-size: 14px;
+    }
+}

@@ -1,0 +1,12 @@
+h1 {
+  font-family: "Heebo Bold";
+}
+
+.info {
+  background-color: aqua;
+  border: 6px solid #111;
+}
+.info p {
+  color: #dfd32d;
+  font-size: 14px;
+}/*# sourceMappingURL=style.css.map */
